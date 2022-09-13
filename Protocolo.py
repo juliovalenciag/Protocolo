@@ -19,7 +19,7 @@ while True:
 Seleccione: """)
     if eleccion == "1":
         lineamiento = input("Lineamiento: ")
-        no = float(input("Número de lineamiento: "))
+        no = float(input("Numero de lineamiento: "))
         lineamientos.append(lineamiento)
         nos.append(no)
 
